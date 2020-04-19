@@ -10,7 +10,7 @@ ArrayList是一种以数组实现的List，与数组相比，它具有动态扩�
 
 ## 继承体系
 
-![](C:\Users\Administrator\Desktop\note\img\ArrayList.png)
+![ArrayList-Inheritance](https://github.com/kevenJJ/java-note/blob/master/note/img/ArrayList.png?raw=true)
 
 ArrayList实现了List, RandomAccess, Cloneable, java.io.Serializable等接口。
 
